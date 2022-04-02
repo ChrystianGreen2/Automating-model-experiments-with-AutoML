@@ -1,0 +1,5 @@
+autogluon.features
+bokeh==2.0.1
+catboost==1.0.4
+streamlit==1.8.1
+xgboost==1.5.2
